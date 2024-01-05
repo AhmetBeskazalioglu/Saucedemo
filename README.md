@@ -1,4 +1,4 @@
-
+/**
      * 1-Create a TestNG  project from scratch. Design all packages, classes and ohter files... use last version of selenium
      <br>
      * 2-Navigate to https://www.saucedemo.com/
@@ -32,3 +32,4 @@
       <br>
       <p>
      
+*//
