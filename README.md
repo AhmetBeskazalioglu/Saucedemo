@@ -24,7 +24,7 @@
      * <p>
      * notes:       
       <br>
-      a. every new page should be asserted by page title
+     *              a. every new page should be asserted by page title
       <br>
      *              b. to have maximum step with minimum method  use the parameterized methods.
       <br>
