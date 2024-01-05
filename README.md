@@ -1,4 +1,4 @@
-/**
+
      * 1-Create a TestNG  project from scratch. Design all packages, classes and ohter files... use last version of selenium
      <br>
      * 2-Navigate to https://www.saucedemo.com/
@@ -22,7 +22,7 @@
      * 11-Click finish and assert the success shopping message
       <br>
      * <p>
-     * notes:       
+      notes:       
       <br>
      *              a. every new page should be asserted by page title
       <br>
@@ -30,5 +30,5 @@
       <br>
      *              c. This is an e2e test scenario
       <br>
-     * <p>
+      <p>
      
