@@ -1,9 +1,10 @@
-package com.saucedemo.tests;
+package com.saucedemo.tests.saucedemoTest;
 
 import com.github.javafaker.Faker;
 import com.saucedemo.pages.CartPage;
 import com.saucedemo.pages.LoginPage;
 import com.saucedemo.pages.ProductsPage;
+import com.saucedemo.tests.TestBase;
 import com.saucedemo.utilities.ConfigurationReader;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
