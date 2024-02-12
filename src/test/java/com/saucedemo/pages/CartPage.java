@@ -1,7 +1,6 @@
 package com.saucedemo.pages;
 
 import com.github.javafaker.Faker;
-import com.saucedemo.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;

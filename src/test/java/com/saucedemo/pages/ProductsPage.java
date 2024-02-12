@@ -1,16 +1,11 @@
 package com.saucedemo.pages;
 
-import com.saucedemo.utilities.BrowserUtils;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.FindBys;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
-import javax.xml.xpath.XPath;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class ProductsPage extends BasePage {
